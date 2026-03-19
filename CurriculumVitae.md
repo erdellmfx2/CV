@@ -1,8 +1,7 @@
-Erdell V. Maurice
+# Erdell V. Maurice
 
-Curriculum Vitae
+## Curriculum Vitae
 
-Education
 ▪ Florida State University, Tallahassee, FL. College of Arts and Science.
 Doctorate in Education: Instruction and Curriculum
 Summer, 2021
@@ -20,7 +19,7 @@ Spring, 2005
    A’ Level in Mathematics, Management of Business and Accounting
    Spring, 2000
 
-Continuing Education
+## Continuing Education
 ▪ Post Graduate Program – Artificial Intelligence and Machine Learning: Business Applications.
 UT Austin, Austin TX
 April 2023
@@ -34,7 +33,7 @@ Honors
 ▪ Island Scholar recipient 2000 
 The Island Scholarship is the most prestigious academic award from the Island of St. Lucia. The holder earns the right to study anywhere in the world.
 
-Work Experience
+# Work Experience
 Florida A&M University, Tallahassee, FL (8/2014 – Present)
 Instructor
 ▪ Created study plan for students; developed lectures; helped students during office hours; adjust teaching delivery to suit students’ education level; Solo instructor in Business Calculus, College Algebra and Liberal Arts I; maintained accurate grade books; created and graded Tests and Quizzes; Coordinated College Algebra; Grant Writing.
@@ -124,7 +123,15 @@ Teaching Experience (16 Years)
 ▪ Scientist Life Skills
 ▪ Student Life Skills
 
-Community Service
+
+# Journal Reviews
+
+- **Mathematics Teacher Learning and Teaching (MTLT)**, March 2026
+  - Reviewed mathematics education research manuscript
+  - Provided expert feedback on research design and pedagogical implications
+  - Contributed to quality assurance of scholarly publication
+
+# Community Service
 ▪ STEM Day 2018 - 2023
 ▪ Spring/Fall Preview
 ▪ Advisor to the Kemetic Mathematical Society
@@ -134,7 +141,7 @@ Community Service
 ▪ Advisor to the FAMU Chess Club
 
 
-Department Service
+# Department Service
 ▪ Chair Recruitment Committee Chair
 ▪ Chair DLAC Committee Chair
 ▪ College Algebra Coordinator
@@ -163,3 +170,12 @@ General Skills
 
 
 References Available upon request.
+
+# Professional Service
+
+- **Journal Reviewer**, Mathematics Teacher Learning and Teaching (MTLT), March 2026
+  - Peer-reviewed mathematics education research manuscript
+  - Evaluated research methodology and statistical analysis
+  - Provided constructive feedback for manuscript improvement
+  - Contributed to maintaining academic publication standards
+
