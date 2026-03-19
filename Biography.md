@@ -1,8 +1,57 @@
-Dr. Erdell Maurice – Florida A&M University - Bio
+# Dr. Erdell Maurice
 
-I am Dr. Erdell Maurice, currently an instructor at Florida A&M University. I just completed my Doctoral degree in mathematics education, focused on Curriculum and Instruction with an emphasis in mathematics education. I also have a Master's degree in Financial Mathematics, two bachelor's degrees in mathematics and actuarial science, and a minor in business. Since my youth, I have always been the best at mathematics and have sought to use that knowledge to help others.  
-I am originally from Saint Lucia, a small Island in the Caribbean. From a very young age, I knew I was destined to do mathematics. I once explained a topic to my class that my teacher struggled to explain one afternoon. It was an important inflection point in my life as it taught me the importance of learning and understanding complex information and having ways to communicate that information to others effectively. From then on, I have never stopped teaching, learning, and applying that knowledge to new spaces.  
-In college, I decided to take on the task of completing a double major in mathematics and actuarial science. From the actuarial science degree and my minor in business, I gained a deep understanding of statistics, applying knowledge in real-world circumstances, the power of good communication skills, and the need to keep learning as the business world is always evolving. From my degree in mathematics, I learned how to master technical and complex situations. I learned how to analyze, decompose and construct models that fit the presented need. Here, I also got my love and passion for programming and solution creation. I have written programs in many languages like C++, objective-C, VBA, SQL, and now Python. I have the ability to see fully written programs in my head and can translate almost any scenario into code. More importantly, I can learn and adapt to new languages efficiently and am always learning; self-improvement is a continual goal.
-Later, I completed my master's in financial mathematics. That degree gave me the technical know-how to work with and lead others, work with complicated financial models, and be a leader in advanced mathematics and statistics. After college, I transitioned into education. I got my Ph.D. in mathematics education in 2021. The degree taught me how to communicate in writing, research, find answers to complex questions, and design models to answer complex questions.
-I'm passionate about data science, a field where my skills in modeling, forecasting, and communication excel. I'm completing a postgraduate program in AI and Machine Learning, focusing on supervised and unsupervised learning, deep learning, computer vision, and natural language processing. I bring humility, leadership, and a collaborative approach to the workplace.
-My current work focuses on leveraging data science to improve student success. This includes developing predictive models to forecast student grades, implementing data-driven strategies to recruit promising mathematics students, training faculty on the effective use of data science tools for teaching and research, and integrating data science concepts and applications into the mathematics curriculum.
+## Florida A&M University — Professional Biography
+
+I am **Dr. Erdell Maurice**, currently an instructor at **Florida A&M University**. I completed my **Doctoral degree in Mathematics Education** (Curriculum and Instruction emphasis), hold a **Master’s degree in Financial Mathematics**, two **Bachelor’s degrees** (Mathematics and Actuarial Science), and a **minor in Business**.
+
+Since my youth, mathematics has been central to my identity and purpose. Early in life, I had the opportunity to explain a topic to my class that a teacher had struggled to present clearly. That moment became a defining inflection point, teaching me the value of deep understanding and clear communication of complex ideas.
+
+## Academic and Professional Foundation
+
+In college, I pursued a double major in mathematics and actuarial science. Through actuarial science and business, I developed strong foundations in:
+
+- Statistics and quantitative reasoning
+- Real-world application of mathematical concepts
+- Communication and professional adaptability
+
+Through mathematics, I developed strengths in:
+
+- Technical problem-solving
+- Analytical decomposition and model construction
+- Programming and computational thinking
+
+I have written programs in multiple languages, including:
+
+- C++
+- Objective-C
+- VBA
+- SQL
+- Python
+
+I learn new tools quickly and prioritize continuous self-improvement.
+
+## Graduate Training and Transition to Education
+
+My master’s in financial mathematics strengthened my ability to lead teams, work with complex financial models, and apply advanced quantitative methods. I later transitioned into education and earned a **Ph.D. in Mathematics Education (2021)**. That training expanded my strengths in:
+
+- Research design and inquiry
+- Technical and academic writing
+- Solving complex educational problems with data-informed methods
+
+## Current Focus and Impact
+
+I am passionate about **Data Science, AI, and Machine Learning**, with ongoing training in:
+
+- Supervised and unsupervised learning
+- Deep learning
+- Computer vision
+- Natural language processing
+
+My current work focuses on improving student success through data-driven strategies, including:
+
+- Developing predictive models to forecast student grades
+- Building data-informed student recruitment strategies for mathematics programs
+- Training faculty to use data science tools in teaching and research
+- Integrating data science concepts into mathematics curriculum and instruction
+
+I bring humility, leadership, and collaboration to all professional environments, and I remain committed to using mathematics and technology to create meaningful educational impact.
