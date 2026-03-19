@@ -71,7 +71,7 @@ Tallahassee, FL (6/2003 – 4/2005, 8/2017 – 4/2022)
 Counselor, Mathematics and Business Tutor
 ▪ Helped new students acclimate to college, supervised, tutored students in mathematics, developed relationships with students.
 
-Research Interests
+# Research Interests
 ▪ My interests lie at the intersection of mathematics, education and technology. My goal is to use technology to close the education gap that minorities face.
 ▪ Current Projects:
    Patent Application: Cyber security focusing on prime number detection. Identifying Prime Numbers without division.
@@ -79,10 +79,10 @@ Improving academic outcomes by adjusting homework assignment.
 Developing Artificial Intelligence to improve homework assignment.
 Drug Development: Creating drug development algorithms using AI agents (October 2025 – Present).
 
-Dissertation
+# Dissertation
 ▪ Outcomes from teaching African American students through a “How to study” workshop in an introductory university mathematics course.
 
-Research
+# Research
 ▪ Developed a method for identifying prime numbers without division or modular arithmetic. (May 2025 – Present)
 ▪ Developing and validating Machine Learning models that predict students grades on an upcoming test. (May 2023 – April 2025)
 ▪ Adjusting student online mathematics homework to enhance student outcomes. (August 2023 – April 2025)
@@ -98,7 +98,7 @@ Research
 ▪ Drug Development Algorithms: Currently developing AI agent-based algorithms for drug discovery (October 2025 – Present).
 
 
-Selected Talks
+# Selected Talks
 ▪ Four Key Changes to College Algebra.
 Florida A&M University, June 2018.
 ▪ Studying for the Internet Age.
@@ -108,7 +108,7 @@ EMPOWER21 Teaching and Learning Conference, Florida A&M University, April 27, 20
 ▪ Notebook LM: An Introduction to an AI Driven Research Tool. Generative AI Workshop Series, October 29, 2025.
 ▪ Foundations of AI and use of the National Research Platform (NRP). AI Tools Workshop and NRP Presenter, January 29, 2026.
 
-Teaching Experience (16 Years)
+# Teaching Experience (17 Years)
 ▪ Calculus 3
 ▪ Business Calculus
 ▪ Pre-Calculus
