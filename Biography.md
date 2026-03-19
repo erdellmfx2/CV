@@ -55,3 +55,7 @@ My current work focuses on improving student success through data-driven strateg
 - Integrating data science concepts into mathematics curriculum and instruction
 
 I bring humility, leadership, and collaboration to all professional environments, and I remain committed to using mathematics and technology to create meaningful educational impact.
+
+## Paragraph Bio
+
+Dr. Erdell Maurice is a mathematics educator, researcher, and data science practitioner at Florida A&M University with over 17 years of teaching experience. He holds a Ph.D. in Mathematics Education, a Master’s in Financial Mathematics, and dual bachelor’s degrees in Mathematics and Actuarial Science. His work centers on applying AI and machine learning to improve student outcomes through predictive modeling, data-informed curriculum design, and faculty development in educational data science. He is also a journal reviewer in mathematics education and is committed to using technical rigor, clear communication, and innovation to expand student success and equity in STEM.
