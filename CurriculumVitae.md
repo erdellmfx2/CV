@@ -107,6 +107,7 @@ EMPOWER21 Teaching and Learning Conference, Florida A&M University, April 27, 20
 ▪ Integrating Qualtrics into the Reporting Cycle. 2025 Annual ILAC Assessment Roundtable, Florida A&M University, November 19, 2025.
 ▪ Notebook LM: An Introduction to an AI Driven Research Tool. Generative AI Workshop Series, October 29, 2025.
 ▪ Foundations of AI and use of the National Research Platform (NRP). AI Tools Workshop and NRP Presenter, January 29, 2026.
+▪ Research Frontiers in AI at FAMU and Beyond. Florida A&M University, March 25, 2026.
 
 # Teaching Experience (17 Years)
 ▪ Calculus 3
