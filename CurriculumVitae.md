@@ -135,6 +135,7 @@ EMPOWER21 Teaching and Learning Conference, Florida A&M University, April 27, 20
 # Community Service
 ▪ STEM Day 2018 - 2023
 ▪ Spring/Fall Preview
+▪ FAMU Spring Preview 2026
 ▪ Advisor to the Kemetic Mathematical Society
 ▪ Advisor to the Anime Club
 ▪ Advisor to the Caribbean Students Association
