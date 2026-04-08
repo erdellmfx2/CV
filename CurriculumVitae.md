@@ -137,6 +137,7 @@ EMPOWER21 Teaching and Learning Conference, Florida A&M University, April 27, 20
 ▪ Spring/Fall Preview
 ▪ FAMU Spring Preview 2026
 ▪ Judge, Mastercard IGS x AUC DSI Data Challenge (2026)
+▪ Judge, 2026 Undergraduate Research Symposium, Florida A&M University (April 8, 2026)
 ▪ Advisor to the Kemetic Mathematical Society
 ▪ Advisor to the Anime Club
 ▪ Advisor to the Caribbean Students Association
@@ -175,6 +176,10 @@ General Skills
 References Available upon request.
 
 # Professional Service
+
+- **Judge**, 2026 Undergraduate Research Symposium, Florida A&M University, April 8, 2026
+  - Participated as a judge for undergraduate research presentations
+  - Contributed professional evaluation and feedback in support of student scholarship
 
 - **Journal Reviewer**, Mathematics Teacher Learning and Teaching (MTLT), March 2026
   - Peer-reviewed mathematics education research manuscript
