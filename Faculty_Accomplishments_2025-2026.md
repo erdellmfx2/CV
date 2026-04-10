@@ -6,7 +6,9 @@
 ## PART A. Teaching Effectiveness
 *   **Instructional Excellence:** Provided solo instruction and expert coordination for **College Algebra**, **Business Calculus**, and **Liberal Arts Mathematics**. 
 *   **Math Learning Lab (MLL) Leadership:** Served as the **Faculty Coordinator for the MLL**, ensuring the facility remained an accessible and effective learning environment for students across all mathematics levels.
-*   **Curriculum Development:** Designed and refined the instructional pipeline for the new **"Computational Authorship and Intelligent System Design"** course, integrating advanced AI methodologies into current pedagogical frameworks.
+*   **Curriculum Development:**
+    *   Designed and refined the instructional pipeline for the new **"Computational Authorship and Intelligent System Design"** course, integrating advanced AI methodologies into current pedagogical frameworks.
+    *   Co-designed and implemented the **MAC1105-C College Algebra with Corequisites** course (Summer 2025), specifically tailored to enhance student retention and mastery in foundational mathematics.
 *   **Course Preparation:** Maintained rigorous course standards through the continuous update of syllabi and course outlines, specifically incorporating data science and AI applications to ensure currency in the discipline.
 *   **Student Support:** Maintained open accessibility via consistent office hours and specialized tutoring, focusing on closing the achievement gap for minority students in STEM.
 

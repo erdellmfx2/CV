@@ -91,6 +91,7 @@ Drug Development: Creating drug development algorithms using AI agents (October 
 ▪ Assisting in the creation of a Cyber policy institute. (August 2023 – Present)
 ▪ Lead writer on NSF S-STEM grant proposal. (February 2024 – Present)
 ▪ Writer on NSF Robert Noyce Grant. (February 2024 – Present)
+▪ Co-designed and implemented the MAC1105-C College Algebra with Corequisites course, focusing on integrated support and enhanced learning pathways for foundational mathematics. (May 2025 – August 2025)
 ▪ Designed and implemented a redesign of the college algebra course. The new course had a focus on Modeling and active learning. A new computer study lab as also created for students. (May 2017 – August 2017)
 ▪ Seventh Wave: Applying AI Modalities on Curriculum Development K-20: Economic, Social Justice, and Marginalized Learners. Journal Article/Preprint (Date: NA).
 ▪ The Modified AC method for factoring and solving Quadratic equations. Journal Article/Preprint (Date: NA).
