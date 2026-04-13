@@ -99,6 +99,9 @@ Drug Development: Creating drug development algorithms using AI agents (October 
 ▪ Drug Development Algorithms: Currently developing AI agent-based algorithms for drug discovery (October 2025 – Present).
 
 
+# Conferences & Workshops Attended
+▪ Fifth National Research Platform (5NRP) Workshop. UC San Diego, La Jolla, CA, March 19 - 22, 2024.
+
 # Selected Talks
 ▪ Four Key Changes to College Algebra.
 Florida A&M University, June 2018.
