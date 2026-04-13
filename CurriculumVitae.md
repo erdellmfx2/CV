@@ -100,6 +100,7 @@ Drug Development: Creating drug development algorithms using AI agents (October 
 
 
 # Conferences & Workshops Attended
+▪ Sixth National Research Platform (6NRP) Workshop. January 28 - 30, 2025.
 ▪ Fifth National Research Platform (5NRP) Workshop. UC San Diego, La Jolla, CA, March 19 - 22, 2024.
 
 # Selected Talks
