@@ -83,6 +83,7 @@ Drug Development: Creating drug development algorithms using AI agents (October 
 ▪ Outcomes from teaching African American students through a “How to study” workshop in an introductory university mathematics course.
 
 # Research
+▪ Member, FAMU AI Cluster (Fall 2023 – Present). Participating in a collaborative faculty research and learning community focused on advancing AI and machine learning through interdisciplinary research, seminars, professional development workshops, student engagement, and data science education initiatives at Florida A&M University.
 ▪ Developed a method for identifying prime numbers without division or modular arithmetic. (May 2025 – Present)
 ▪ Developing and validating Machine Learning models that predict students grades on an upcoming test. (May 2023 – April 2025)
 ▪ Adjusting student online mathematics homework to enhance student outcomes. (August 2023 – April 2025)
