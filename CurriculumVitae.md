@@ -101,6 +101,7 @@ Drug Development: Creating drug development algorithms using AI agents (October 
 
 
 # Conferences & Workshops Attended
+▪ AUC/FDSI 2026 Conference, Atlanta, GA, May 25 - 29, 2026.
 ▪ Sixth National Research Platform (6NRP) Workshop. January 28 - 30, 2025.
 ▪ Fifth National Research Platform (5NRP) Workshop. UC San Diego, La Jolla, CA, March 19 - 22, 2024.
 
@@ -114,6 +115,8 @@ EMPOWER21 Teaching and Learning Conference, Florida A&M University, April 27, 20
 ▪ Notebook LM: An Introduction to an AI Driven Research Tool. Generative AI Workshop Series, October 29, 2025.
 ▪ Foundations of AI and use of the National Research Platform (NRP). AI Tools Workshop and NRP Presenter, January 29, 2026.
 ▪ Research Frontiers in AI at FAMU and Beyond. Florida A&M University, March 25, 2026.
+▪ Using Agents and Agentic Workflows to Help Build Courses.
+AUC/FDSI 2026 Conference, Atlanta, GA, May 2026.
 
 # Teaching Experience (17 Years)
 ▪ Calculus 3
