@@ -36,7 +36,7 @@ The Island Scholarship is the most prestigious academic award from the Island of
 # Work Experience
 Florida A&M University, Tallahassee, FL (8/2014 – Present)
 Instructor
-▪ Created study plan for students; developed lectures; helped students during office hours; adjust teaching delivery to suit students’ education level; Solo instructor in Business Calculus, College Algebra and Liberal Arts I; maintained accurate grade books; created and graded Tests and Quizzes; Coordinated College Algebra; Grant Writing.
+▪ Created study plan for students; developed lectures; helped students during office hours; adjust teaching delivery to suit students’ education level; Solo instructor in Business Calculus, College Algebra, MAC1105-C (College Algebra With Prerequisites), and Liberal Arts I; maintained accurate grade books; created and graded Tests and Quizzes; Coordinated College Algebra; Grant Writing.
 
 Tallahassee Community College, Tallahassee Community College, Tallahassee, FL (1/2009 – 4/2015; 8/2024 - Present)
 Teaching Assistant
