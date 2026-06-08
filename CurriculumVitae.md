@@ -102,6 +102,7 @@ Drug Development: Creating drug development algorithms using AI agents (October 
 
 # Conferences & Workshops Attended
 ▪ AUC/FDSI 2026 Conference, Atlanta, GA, May 25 - 29, 2026.
+▪ Seventh National Research Platform (7NRP) Workshop. La Jolla, CA, May 5 - 7, 2026.
 ▪ Sixth National Research Platform (6NRP) Workshop. January 28 - 30, 2025.
 ▪ Fifth National Research Platform (5NRP) Workshop. UC San Diego, La Jolla, CA, March 19 - 22, 2024.
 
@@ -167,11 +168,12 @@ AUC/FDSI 2026 Conference, Atlanta, GA, May 2026.
 ▪ ALEKS Summer Prep
 ▪ College Algebra Redesign
 
+# Skills
 
-Computer Skills
-▪ C++ Programming, Windows OS, Apple OS, Excel, Word, Power Point, Access, SQL, python, and Internet.
+## Computer Skills
+▪ C++ Programming, Windows OS, Apple OS, Excel, Word, Power Point, Access, SQL, Python, Google Antigravity, OpenAI Codex, Agents OpenClaw, Hermes, and Internet.
 
-General Skills
+## General Skills
 ▪ Ability to communicate effectively verbally and in writing.
 ▪ Ability to assess client needs.
 ▪ Knowledge of general office procedures.
