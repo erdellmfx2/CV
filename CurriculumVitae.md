@@ -125,6 +125,7 @@ AUC/FDSI 2026 Conference, Atlanta, GA, May 2026.
 ▪ Pre-Calculus
 ▪ Trigonometry
 ▪ College Algebra
+▪ MAC1105-C (College Algebra With Prerequisites)
 ▪ College Algebra Online
 ▪ Introduction to Statistics
 ▪ Liberal Arts 1
@@ -171,7 +172,7 @@ AUC/FDSI 2026 Conference, Atlanta, GA, May 2026.
 # Skills
 
 ## Computer Skills
-▪ C++ Programming, Windows OS, Apple OS, Excel, Word, Power Point, Access, SQL, Python, Google Antigravity, OpenAI Codex, Agents OpenClaw, Hermes, and Internet.
+▪ C++ Programming, Windows OS, Apple OS, Excel, Word, Power Point, Access, SQL, Python, VBA, Google Antigravity, OpenAI Codex, Agents OpenClaw, Hermes, Deep AI Modeling, and Internet.
 
 ## General Skills
 ▪ Ability to communicate effectively verbally and in writing.
@@ -182,6 +183,9 @@ AUC/FDSI 2026 Conference, Atlanta, GA, May 2026.
 ▪ Ability to analyze and interpret statistical data.
 ▪ Data visualization.
 ▪ Using Machine Learning tools to analyze data and make predictions.
+▪ ML prediction tools.
+▪ Grant writing.
+▪ Curriculum design.
 
 
 References Available upon request.
