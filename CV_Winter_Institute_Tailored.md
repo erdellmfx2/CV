@@ -86,6 +86,11 @@ My research lies at the intersection of mathematics, education, technology, and 
 - **Research Frontiers in AI at FAMU and Beyond.** Florida A&M University, 2026.
 - **Studying for the Internet Age.** EMPOWER21 Teaching and Learning Conference, Florida A&M University, 2021.
 
+## Professional Development & Facilitation
+- **Facilitator, PATH to AI: Core AI Fundamentals.** FAMU AI Summer Skills Lab, Florida A&M University, August 2026.
+  - Facilitated a nine-hour AI skills lab focused on prompt design, workflow improvement, responsible AI, role-based practice, and implementation planning.
+  - Guided peer learning, source verification, privacy-aware practice, and human-in-the-loop review using safe, public, synthetic, or properly sanitized materials.
+
 ## Teaching Experience
 Courses taught include:
 - Business Calculus

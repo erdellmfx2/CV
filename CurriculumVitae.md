@@ -119,6 +119,14 @@ EMPOWER21 Teaching and Learning Conference, Florida A&M University, April 27, 20
 ▪ Using Agents and Agentic Workflows to Help Build Courses.
 AUC/FDSI 2026 Conference, Atlanta, GA, May 2026.
 
+# Professional Development & Facilitation
+
+▪ **Facilitator, PATH to AI: Core AI Fundamentals**, FAMU AI Summer Skills Lab, Florida A&M University (August 2026).
+  - Facilitated a nine-hour, two-session AI skills lab for FAMU participants.
+  - Guided practice in prompt design, document and workflow improvement, responsible AI, role-based use cases, and implementation planning.
+  - Led peer learning and feedback centered on human judgment, source verification, privacy, compliance, accessibility, and accountable review.
+  - Supported participants in designing bounded, practical AI-assisted workflows using safe, public, synthetic, or properly sanitized materials.
+
 # Teaching Experience (17 Years)
 ▪ Calculus 3
 ▪ Business Calculus

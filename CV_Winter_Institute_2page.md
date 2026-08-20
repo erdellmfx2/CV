@@ -44,6 +44,9 @@ Designed and implemented interdisciplinary Data Science programs at the undergra
 - **Foundations of AI and Use of the National Research Platform (NRP).** AI Tools Workshop and NRP Presenter, 2026.
 - **Research Frontiers in AI at FAMU and Beyond.** Florida A&M University, 2026.
 
+## Professional Development & Facilitation
+- **Facilitator, PATH to AI: Core AI Fundamentals.** FAMU AI Summer Skills Lab, Florida A&M University, August 2026. Facilitated a nine-hour AI skills lab centered on prompt design, workflow improvement, responsible AI, privacy-aware practice, source verification, and accountable human review.
+
 ## Research and Scholarly Interests
 My research lies at the intersection of mathematics, education, technology, and intelligent systems, with a focus on using data science and AI to improve student learning, broaden participation in STEM, and support the design of innovative educational systems.
 
