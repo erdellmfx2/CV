@@ -12,7 +12,7 @@ This repository contains the current Curriculum Vitae of Dr. Erdell Maurice in m
   - Education (Doctorate, Masters, Bachelors)
   - Work Experience (17+ years teaching experience)
   - Publications and Research
-  - **Journal Reviews** (Mathematics Teacher Learning and Teaching, March 2026)
+  - **Journal Reviews** (Mathematics Teacher: Learning and Teaching PK–12, March 2026 and September 2026)
   - **Professional Service** section
   - Community and Department Service
   - Honors and Awards
@@ -25,8 +25,8 @@ This repository contains the current Curriculum Vitae of Dr. Erdell Maurice in m
 ### `DSC_2459verysmallSquaresmall.jpg`
 - Professional profile photo
 
-## 🔄 Recent Updates (March 18, 2026)
-1. **Added Journal Reviews section** with MTLT March 2026 review
+## 🔄 Recent Updates (September 22, 2026)
+1. **Added Journal Reviews section** with MTLT March 2026 and September 2026 reviews
 2. **Added Professional Service section**
 3. **Updated teaching experience** to reflect 17+ years
 4. **Converted to proper markdown formatting** with headers

@@ -25,7 +25,7 @@
 
 ## PART C. Performance in Service
 *   **Departmental Leadership:** Served as **Chair of the Chair Recruitment Committee** and **Chair of the DLAC Committee**.
-*   **Academic Review:** Performed expert peer review for the **Mathematics Teacher Learning and Teaching (MTLT)** journal (March 2026).
+*   **Academic Review:** Performed expert peer review for **Mathematics Teacher: Learning and Teaching PK–12 (MTLT)** (March 2026 and September 2026).
 *   **Scholarly Evaluation:** Served as a **Judge for the 2026 Undergraduate Research Symposium** (April 8, 2026) and the Mastercard IGS x AUC DSI Data Challenge.
 *   **Professional Development:** Actively engaged in the Generative AI Workshop Series and National Research Platform (NRP) training to maintain mastery of emerging technological tools in mathematics education.
 *   **Community Impact:** Directed recruitment and STEM readiness initiatives during **FAMU Spring Preview 2026** and provided high-level private tutoring to high school and college students in the community.

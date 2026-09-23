@@ -59,7 +59,7 @@ Current and recent work includes predictive modeling for student success, AI-sup
 - Faculty Coordinator, Math Learning Lab
 - Curriculum Committee Member
 - Strategic Initiatives Committee Member
-- Journal Reviewer, *Mathematics Teacher Learning and Teaching (MTLT)*, 2026
+- Journal Reviewer, *Mathematics Teacher: Learning and Teaching PK–12 (MTLT)*, 2026
 - Judge, Mastercard IGS x AUC DSI Data Challenge, 2026
 
 ## Technical Skills

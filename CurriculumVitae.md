@@ -146,7 +146,12 @@ AUC/FDSI 2026 Conference, Atlanta, GA, May 2026.
 
 # Journal Reviews
 
-- **Mathematics Teacher Learning and Teaching (MTLT)**, March 2026
+- **Mathematics Teacher: Learning and Teaching PK–12 (MTLT)**, September 2026
+  - Completed peer review of mathematics education manuscript
+  - Provided expert feedback on classroom practice, research design, and pedagogical implications
+  - Supported scholarly quality assurance for PK–12 mathematics education publication
+
+- **Mathematics Teacher: Learning and Teaching PK–12 (MTLT)**, March 2026
   - Reviewed mathematics education research manuscript
   - Provided expert feedback on research design and pedagogical implications
   - Contributed to quality assurance of scholarly publication
@@ -204,9 +209,14 @@ References Available upon request.
   - Participated as a judge for undergraduate research presentations
   - Contributed professional evaluation and feedback in support of student scholarship
 
-- **Journal Reviewer**, Mathematics Teacher Learning and Teaching (MTLT), March 2026
+- **Journal Reviewer**, Mathematics Teacher: Learning and Teaching PK–12 (MTLT), March 2026
   - Peer-reviewed mathematics education research manuscript
   - Evaluated research methodology and statistical analysis
   - Provided constructive feedback for manuscript improvement
   - Contributed to maintaining academic publication standards
+
+- **Journal Reviewer**, Mathematics Teacher: Learning and Teaching PK–12 (MTLT), September 2026
+  - Completed peer review of mathematics education manuscript
+  - Evaluated classroom practice, research design, and pedagogical implications
+  - Provided constructive feedback in support of scholarly publication quality
 

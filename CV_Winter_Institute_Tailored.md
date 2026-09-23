@@ -113,7 +113,7 @@ Courses taught include:
 - Strategic Initiatives Committee Member
 - Master’s Program Committee Member in Actuarial and Mathematical Statistics
 - Judge, Mastercard IGS x AUC DSI Data Challenge, 2026
-- Journal Reviewer, *Mathematics Teacher Learning and Teaching (MTLT)*, 2026
+- Journal Reviewer, *Mathematics Teacher: Learning and Teaching PK–12 (MTLT)*, 2026
 
 ## Technical Skills
 Python, SQL, C++, Excel, Access, data visualization, statistical reasoning, machine learning workflows, instructional design, curriculum development, AI-enhanced research tools, and technology-supported teaching.
