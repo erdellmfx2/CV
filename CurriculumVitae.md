@@ -118,6 +118,8 @@ EMPOWER21 Teaching and Learning Conference, Florida A&M University, April 27, 20
 ▪ Research Frontiers in AI at FAMU and Beyond. Florida A&M University, March 25, 2026.
 ▪ Using Agents and Agentic Workflows to Help Build Courses.
 AUC/FDSI 2026 Conference, Atlanta, GA, May 2026.
+▪ Why Hallucinations May Not Be a Bad Thing: Using a Tri-Model Architecture to Build Lesson Plans.
+Florida A&M University Department of Mathematics Seminar Series, Jackson Davis 405, October 1, 2026.
 
 # Professional Development & Facilitation
 

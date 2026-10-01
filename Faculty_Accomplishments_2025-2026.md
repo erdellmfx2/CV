@@ -16,6 +16,7 @@
 *   **AI & Drug Discovery:** Led a major research initiative (Oct 2025 – Present) developing **AI agent-based algorithms for drug discovery**, specifically implementing knowledge-aware architectures and Attention Residual models.
 *   **Cryptographic Research:** Continued the development of a novel method for **identifying prime numbers without division or modular arithmetic**, a significant advancement currently in the patent application process.
 *   **Professional Presentations:**
+    *   *Presenter:* "Why Hallucinations May Not Be a Bad Thing: Using a Tri-Model Architecture to Build Lesson Plans," Florida A&M University Department of Mathematics Seminar Series, Jackson Davis 405 (October 1, 2026).
     *   *Presenter:* "Research Frontiers in AI at FAMU and Beyond," Florida A&M University (March 25, 2026).
     *   *Presenter:* "Foundations of AI and use of the National Research Platform (NRP)," AI Tools Workshop (January 29, 2026).
     *   *Presenter:* "Integrating Qualtrics into the Reporting Cycle," 2025 Annual ILAC Assessment Roundtable (November 19, 2025).
